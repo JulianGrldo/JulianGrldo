@@ -24,7 +24,7 @@ I'm currently looking for a role as a **Junior Software Developer** where I can 
 - 📧 Email: julian.isaza2527@gmail.com  
 - 📱 Phone: +57 320 511 2775 / +57 312 804 3388  
 - 💼 LinkedIn: [www.linkedin.com/in/julian-isaza](https://www.linkedin.com/in/julian-isaza)  
-- 🌐 Portfolio: [https://juliangrldo.github.io/Personal_page/](https://juliangrldo.github.io/Personal_page/)
+- 🌐 Portfolio: [https://juliangrldo.github.io/Personal_page/](https://juliangrldo.github.io/Personal-page/))
 
 ---
 
