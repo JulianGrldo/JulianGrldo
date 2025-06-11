@@ -4,7 +4,7 @@ I'm a **Junior Software Developer** passionate about creating efficient, automat
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently studying Software Development with a strong foundation in logic, programming, and process automation.
+- 🎓 I am currently a software developer with a solid foundation in logic, programming, databases and process automation.
 - 💡 I enjoy building tools that simplify tasks and increase productivity.
 - 🌱 Always learning and exploring new technologies in the development world.
 - 🧠 I’m analytical, detail-oriented, and focused on writing clean, maintainable code.
